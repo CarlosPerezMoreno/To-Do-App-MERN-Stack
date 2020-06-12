@@ -1,17 +1,11 @@
 import React, { Component } from "react";
+import Form from "./Form/index";
 
 export default class App extends Component {
   render() {
     return (
       <div>
-        <nav className="light-blue darken-4">
-          <div className="container">
-            <a className="brand-logo" href="/">
-              {" "}
-              Taking Notes!
-            </a>
-          </div>
-        </nav>
+        <Form />
       </div>
     );
   }
