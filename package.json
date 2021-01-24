@@ -15,7 +15,7 @@
   "dependencies": {
     "@babel/preset-react": "^7.10.1",
     "express": "^4.16.3",
-    "mongoose": "^5.1.4",
+    "mongoose": "^5.7.5",
     "morgan": "^1.9.0",
     "react-hook-form": "^5.7.2"
   },
